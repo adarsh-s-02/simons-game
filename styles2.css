@@ -1,0 +1,26 @@
+body{
+  background-color: #011F3F;
+}
+
+ul{
+  color: #FEF2BF;
+}
+
+h1{
+  color: #FEF2BF;
+}
+
+p{
+  font-size: 1.5rem;
+  color: #377D71;
+}
+
+a{
+  font-size: 1.5rem;
+  font-style: italic;
+  color: #377D71;
+}
+
+a:hover{
+  color: gold;
+}
